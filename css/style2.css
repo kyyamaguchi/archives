@@ -1,0 +1,29 @@
+body {
+    background-color: #BB0339;
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    color: white;
+    width: 60%;
+    font-size: 100px;
+    line-height: 150px;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 50px;
+    color: white;
+    margin-left: 2%;
+    
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}

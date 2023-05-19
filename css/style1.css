@@ -1,0 +1,46 @@
+body {
+    background-color: #BB0339;
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    color: white;
+    font-size: 300px;
+    width: 70%;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 15%;
+    position: relative;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    color: white;
+    font-size: 50px;
+    margin-left: 43.5%;
+    position: relative;
+}
+
+#arrow {
+    margin-left: 48.5%;
+    margin-top: 12%;
+    margin-bottom: 15%;
+}
+
+h3 {
+    font-family: Helvetica, sans-serif;
+    color: white;
+    font-size: 200px;
+    margin-left: 34%;
+    position: relative;
+}
+
+#row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 7%;
+}
